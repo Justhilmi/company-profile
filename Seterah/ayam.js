@@ -16,3 +16,11 @@ let namadepan = "John";
 let namabelakang = "Doe";
 let fullname =namadepan + " " + namabelakang;
 console.log(fullname);
+
+let umur =15;
+
+if (umur > 10 && umur < 20) {
+    console.log("Anak-anak");
+} else {
+    console.log("Dewasa");
+}
