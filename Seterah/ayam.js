@@ -11,3 +11,8 @@ const A = 10;
 const B = 3;
 const C = B**A
 console.log(C)
+
+let namadepan = "John";
+let namabelakang = "Doe";
+let fullname =namadepan + " " + namabelakang;
+console.log(fullname);
