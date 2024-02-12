@@ -32,3 +32,10 @@ if (umur > 10 && umur < 20) {
 for (let kue =3; kue>=1; kue--){
     console.log("Kue sudah dimakan, kue sisa "+ kue);
 }
+
+//function
+function tambah(angka1, angka2) {
+    return angka1 + angka2
+}
+
+console.log(tambah(10, 5));
