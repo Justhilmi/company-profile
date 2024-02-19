@@ -1,4 +1,4 @@
-alert("Hello World");
+alert("Web berhasil running");
 
 let firstname = "John";
 firstname = "Doe";
